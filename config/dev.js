@@ -3,5 +3,7 @@ module.exports = {
   googleClientSecret: 'AgUvznKNNW8kHdzs_P4TQ_ga',
 
   mongoURI : 'mongodb://anshups:anshups1@ds137340.mlab.com:37340/emaily-devv',
-  cookieKey: 'hbciebibeje'
+  cookieKey: 'hbciebibeje',
+  stripePublishableKey: 'pk_test_8jyODAcm7YdT3d4vTDAhOO4x',
+  stripeSecretKey: 'sk_test_n9ZyTHj3NATJIGTFluPl6Fx4'
 }
